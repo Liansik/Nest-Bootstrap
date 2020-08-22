@@ -11,7 +11,7 @@ body {
   height: 2rem;
 }
 .home-inner{
-  background-image: url('/img/landing.png');
+  background-image: url('img/landing.png');
 }
 .caption{
   width: 100%;
